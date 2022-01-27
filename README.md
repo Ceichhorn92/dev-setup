@@ -77,8 +77,8 @@ This repo takes a more **light-weight** approach to automation using a combinati
 * [Terminal Customization](#terminal-customization)
 * [iTerm2](#iterm2)
 * [Vim](#vim)
-* [Git](#git)
-* [VirtualBox](#virtualbox)
+* [Git](#git)true
+* [VirtualBox](#virtualbox) true
 * [Vagrant](#vagrant)
 * [Docker](#docker)
 * [Homebrew](#homebrew)
@@ -136,9 +136,9 @@ This repo takes a more **light-weight** approach to automation using a combinati
 ## Section 7: Android Development
 
 * [Java](#java)
-* [Android SDK](#android-sdk)
+* [Android SDK](#android-sdk) #android-sdk
 * [Android Studio](#android-studio)
-* [IntelliJ IDEA](#intellij-idea)
+* [IntelliJ IDEA](#intellij-idea) #intellij-idea)
 
 ## Section 8: Misc
 
@@ -151,7 +151,7 @@ This repo takes a more **light-weight** approach to automation using a combinati
 
 ### Single Setup Script
 
-#### Running with Git
+#### Running with Git true
 
 ##### Clone the Repo
 
